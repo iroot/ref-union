@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "1"
+    "ref-napi": "https://github.com/iroot/ref-napi/tarball/prebuild"
   },
   "devDependencies": {
     "mocha": "*",
     "nan": "2",
-    "ref-struct": "1",
+    "ref-struct-di": "https://github.com/iroot/ref-struct-di/tarball/prebuild",
     "bindings": "1"
   }
 }

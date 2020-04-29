@@ -20,7 +20,7 @@ Examples
 --------
 
 ``` js
-var ref = require('ref')
+var ref = require('ref-napi')
 var Union = require('ref-union')
 
 // a couple typedefs
